@@ -4,7 +4,7 @@ TestPage is a simple project for generating GitPages.
 
 ## Features
 
-- Generates GitPages for your project.
+- creating a game hosted via GitHub --> Day 1
 
 ## Credits
 
