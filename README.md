@@ -1,18 +1,19 @@
-# TestPage
+# Complete Games: 
 
-TestPage is a simple project for generating GitPages.
-
-## Features
-
-- creating a game hosted via GitHub
+- [1-100](https://lukey30443.github.io/Pong3/)
 
 ## Status
 
-- Complete!
+Online 🟢
 
-## Full Game
+## Work In Progress Games: 
 
-- [Guess Number 1-100](https://lukey30443.github.io/Pong3/)
+- • Snake
+- • 2048
+- • Pong
+- • Wordle
+- • WordMixer
+
 
 ## Credits
 
