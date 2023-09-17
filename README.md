@@ -12,7 +12,7 @@ TestPage is a simple project for generating GitPages.
 
 ## Full Game
 
-- [lukey30443](https://lukey30443.github.io/Pong3/)
+- [Guess Number 1-100](https://lukey30443.github.io/Pong3/)
 
 ## Credits
 
