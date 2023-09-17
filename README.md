@@ -2,7 +2,7 @@
 
 # Complete Games: 
 
-- [1-100](https://lukey30443.github.io/Pong3/)
+- [Guess Number 1-100](https://lukey30443.github.io/Pong3/)
 
 ## Status
 
@@ -10,11 +10,11 @@ Online 🟢
 
 ## Work In Progress Games: 
 
-- • Snake
-- • 2048
-- • Pong
-- • Wordle
-- • WordMixer
+- Snake
+- 2048
+- Pong
+- Wordle
+- WordMixer
 
 
 ## Credits
