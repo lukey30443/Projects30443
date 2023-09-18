@@ -2,16 +2,19 @@
 
 # Complete Games: 
 
-- [Guess Number 1-100](https://lukey30443.github.io/Pong3/)
-- [Snake](https://lukey30443.github.io/Snake3/)
+- 🟢 [Guess Number 1-100](https://lukey30443.github.io/Pong3/) 
+- 🟢 [Snake](https://lukey30443.github.io/Snake3/) 
+- 🟢 [Pong](https://github.com/lukey30443/Pong)
+  
 ## Status
 
-Online 🟢
+🟢 Online 
+🔴 Offline 
+🟡 Maintenance 
 
 ## Work In Progress Games: 
 
 - 2048
-- Pong
 - Wordle
 - WordMixer
 - Lawn Mower Game
